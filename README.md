@@ -1,36 +1,50 @@
-# laravel-responsive-admin
-Laravel Responsive Admin Template
+Laravel Logo
+Build Status Total Downloads Latest Stable Version License
 
-![Laravel Logo](https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg)
+About Laravel
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-Description:
+Simple, fast routing engine.
+Powerful dependency injection container.
+Multiple back-ends for session and cache storage.
+Expressive, intuitive database ORM.
+Database agnostic schema migrations.
+Robust background job processing.
+Real-time event broadcasting.
+Laravel is accessible, and powerful, and provides tools required for large, robust applications.
 
-The Laravel Responsive Admin Template is a feature-rich and user-friendly admin dashboard template built with Laravel, a popular PHP framework known for its expressive syntax, developer-friendly environment, and powerful capabilities. This template provides a solid foundation for building dynamic and responsive admin panels and management systems.
+Learning Laravel
+Laravel has the most extensive and thorough documentation and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-Headline:
+You may also try the Laravel Bootcamp, where you will be guided through building a modern Laravel application from scratch.
 
-"Efficiently Manage Your Application with Laravel Responsive Admin Template"
+If you don't feel like reading, Laracasts can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-Laravel Advantages:
+Laravel Sponsors
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel Patreon page.
 
-Elegant Syntax: Laravel is renowned for its elegant and expressive syntax, making it a pleasure for developers to work with. The clean and readable codebase enhances productivity and maintainability.
+Premium Partners
+Vehicle
+Tighten Co.
+Kirschbaum Development Group
+64 Robots
+Cubet Techno Labs
+Cyber-Duck
+Many
+Webdock, Fast VPS Hosting
+DevSquad
+Curotec
+OP.GG
+WebReinvent
+Lendio
+Contributing
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the Laravel documentation.
 
-MVC Architecture: Laravel follows the Model-View-Controller (MVC) architectural pattern, providing a structured and organized approach to developing web applications. This separation of concerns makes it easier to manage different aspects of the application.
+Code of Conduct
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the Code of Conduct.
 
-Eloquent ORM: Laravel's Eloquent ORM (Object-Relational Mapping) simplifies database interactions by allowing developers to work with database records as objects. This abstracts the underlying database operations, resulting in cleaner and more efficient code.
+Security Vulnerabilities
+If you discover a security vulnerability within Laravel, please send an e-mail to Avinash via aviprf10@gmail.com. All security vulnerabilities will be promptly addressed.
 
-Artisan CLI: Laravel comes with a powerful command-line interface called Artisan. With Artisan, developers can automate repetitive tasks, generate boilerplate code, and manage various aspects of the application effortlessly.
-
-Blade Templating Engine: Laravel's Blade templating engine provides an intuitive and efficient way to build dynamic views. It allows developers to use template inheritance, components, and directives, leading to modular and reusable code.
-
-Laravel Mix: Laravel Mix simplifies asset management by providing a clean and intuitive API for working with CSS, JavaScript, and other assets. It streamlines asset compilation and minimization, enhancing performance and reducing load times.
-
-Robust Security: Laravel comes with built-in security features like CSRF protection, data validation, encryption, and more, making it a secure choice for developing web applications.
-
-Vibrant Community: Laravel has a vibrant and active community of developers, providing extensive documentation, tutorials, and packages that further streamline development and problem-solving.
-
-GitHub Repository:
-
-You can find the Laravel Responsive Admin Template in my GitHub repository at https://github.com/yourusername/laravel-responsive-admin
-
-Feel free to explore, use, and contribute to the project! If you have any questions or suggestions, please don't hesitate to reach out. Happy coding!
+License
+The Laravel framework is open-sourced software licensed under the MIT license.
