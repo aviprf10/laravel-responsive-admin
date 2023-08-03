@@ -1,7 +1,7 @@
 # laravel-responsive-admin
 Laravel Responsive Admin Template
 
-![Laravel Logo](https://laravel.com/img/logomark.min.svg)
+![Laravel Logo]([https://laravel.com/img/logomark.min.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRD4lgVO7O-_2lX6wV74g3onZSnzCwLwMhb2yof19LkwSNrCNHQFe8TwnrLghr6NmDEY8&usqp=CAU))
 
 Description:
 
